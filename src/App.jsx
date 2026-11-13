@@ -16,7 +16,7 @@ function App() {
        <SideBanner />
         <ClothingSection />
          <MenFashionBanner/>
-   <Footer/>
+         <Footer/>
 
 
 
