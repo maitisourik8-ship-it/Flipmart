@@ -5,6 +5,7 @@ import Productsection from "./Components/Productsection";
 import SideBanner from "./Components/SideBanner";
 import ClothingSection from "./Components/ClothingSection";
 import MenFashionBanner from "./Components/MenFashionBanner";
+import Footer from "./Components/Footer";
 function App() {
   return (
     <>
@@ -15,6 +16,7 @@ function App() {
        <SideBanner />
         <ClothingSection />
          <MenFashionBanner/>
+   <Footer/>
 
 
 
